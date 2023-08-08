@@ -47,10 +47,4 @@ python personalFinanceManager.py
 - All recorded transactions are displayed in the table.
 - The total amount of all transactions is shown in the last row.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to include any additional information, usage instructions, or screenshots that you might want to provide to your users. Good luck with your personal finance management application!
